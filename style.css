@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.logo{
+width: 200px;
+
+}
+
+header nav {
+float: right;
+padding-top: 20px;
+
+
+}
+
+.hero {
+width: 100%;
+}
+ header{
+     background-color: gray;
+ }
+ main{
+     background-color: darkblue;
+ }
+.first img{
+    width: 300px;
+
+}   
+.first li{
+    color: orange;
+    font-size: 25px;
+}
+.first label{
+    color: orangered;
+    font-size: 50px;
+}
+.second img{
+    float: right;
+}
+.second{
+    padding-bottom: 250px;
+    color: orangered;
+}
+.second label{
+    font-size: 50px;
+}
+footer{
+    background-color: black;
+    padding: 50px;
+
+}
+footer a {
+    color: white;
+    
+}
+footer{
+    text-align: center;
+}
+main{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+table, th, td {
+    border: 1px solid black;
+    font-size: 25px;
+  }
